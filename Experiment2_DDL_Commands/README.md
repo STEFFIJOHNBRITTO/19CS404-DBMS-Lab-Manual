@@ -302,7 +302,8 @@ Amount REAL check(Amount>0)
 <img width="1218" height="350" alt="image" src="https://github.com/user-attachments/assets/3a0a315e-dd6a-4f01-b1e2-3583d4cc4b46" />
 
 **GRADE**
-<img width="703" height="612" alt="image" src="https://github.com/user-attachments/assets/b3f50bf8-d9fa-47c0-b193-aeb449e2a515" />
+
+<img width="1080" height="425" alt="Screenshot 2026-03-20 123316" src="https://github.com/user-attachments/assets/932c0e5e-9533-4ff4-9fc9-6b11c58696c4" />
 
 
 
