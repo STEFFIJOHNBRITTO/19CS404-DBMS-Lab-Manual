@@ -275,7 +275,7 @@ HAVING SUM(price*category_id)>25;
 
 ## COMPLETION STATUS
 
-<img width="1287" height="290" alt="image" src="https://github.com/user-attachments/assets/0b75eb85-a882-48aa-ad50-c7612ce0b25a" />
+<img width="1080" height="425" alt="Screenshot 2026-03-20 123316" src="https://github.com/user-attachments/assets/843d2d87-8374-4846-a69a-4cad8b89131c" />
 
 
 ## RESULT
