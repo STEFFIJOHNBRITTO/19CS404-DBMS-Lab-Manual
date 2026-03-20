@@ -195,7 +195,8 @@ WHERE GRADE = 2;
 
 ## COMPLETION STATUS 
 
-<img width="1047" height="358" alt="image" src="https://github.com/user-attachments/assets/1569f317-f8e2-4011-95b4-e38d8a39ef4d" />
+<img width="1080" height="425" alt="Screenshot 2026-03-20 123316" src="https://github.com/user-attachments/assets/7cd57bfd-ac7b-46f0-8b69-f9b6c2d8e337" />
+
 
 
 ## RESULT
